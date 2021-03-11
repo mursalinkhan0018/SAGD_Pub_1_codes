@@ -1,6 +1,6 @@
 #!/bin/bash
 ##No gene will be in the file less than 1 fold up or down regualted. New file is created for the clean data 
-#To remove anything less than <=1 use ^-0. or ^0.
+#To remove anything less than <=1 use ^-0. or ^0.(You just need this other fold change can download from SAGD :) )
 #To remove anything less than <=2 use ^-1. or ^1.
 #To remove anything less than <=3 use ^-2. or ^2.
 #To remove anything less than <=4 use ^-3. or ^3.
